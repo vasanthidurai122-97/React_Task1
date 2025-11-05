@@ -1,0 +1,17 @@
+.togContainer{
+    text-align: center;
+    font-size: 19px;
+    padding: 20px;
+}
+.btn{
+    padding: 15px 20px;
+    font-size: 17px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+p{
+    font-size: 18px;
+}

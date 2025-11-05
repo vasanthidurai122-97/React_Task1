@@ -1,0 +1,32 @@
+.container {
+    background-color: rgb(228, 249, 250);
+    width: 70%;
+    height: 130%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+
+
+}
+h1{
+    text-align: center;
+}
+label {
+     margin: 20px;
+     padding: 20px;
+     font-size: 20px; 
+}
+textarea {
+    margin: 30px;
+    padding: 20px;
+}
+h3{
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+p{
+   font-size: 18px;
+   padding: 0 30px;
+
+}
